@@ -8,8 +8,6 @@ https://faucet.dimensions.network/
 
 https://faucet.metamask.io/
 
-基本的 Hardhat 功能已經在這篇介紹過，所以今天這篇並不會重複之前的每一個步驟。
-
 Hardhat 的 task 功能能夠讓我們自行撰寫 js 腳本來測試智能合約，除了能夠在本地端進行測試，我們也可以針對測試網的智能合約來測試，像是 Rinkeby、Kovan、Ropsten 等，可以直接針對智能合約的 function 和 variable 進行測試，今天就是要教如何利用 task 功能 來使用測試網的智能合約。
 
 因為相關的 Hardhat 指令在[這篇](https://github.com/WeiYun0912/Hardhat)就已經有介紹過了，所以本篇不會再重複太多之前已經介紹過的步驟。
